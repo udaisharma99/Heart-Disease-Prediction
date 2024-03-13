@@ -3,7 +3,8 @@
 Overview
 This project focuses on predicting heart disease using a Logistic Regression model. The key steps involve importing essential libraries, data collection, processing, and splitting, as well as training and evaluating the model's performance.
 
-![image](https://github.com/udaisharma99/Heart-Disease-Prediction/assets/138836370/00f1d67e-eb1f-4e24-9de7-8b4827f74b61)
+![image](https://github.com/udaisharma99/Heart-Disease-Prediction/assets/138836370/79b4590b-d7c5-48e3-965e-58a2c2d31081)
+
 
 
 Libraries Used
