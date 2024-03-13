@@ -23,5 +23,4 @@ Model Evaluation: The model's performance was assessed using the accuracy score 
 
 Building a Predictive System: A predictive system was developed to classify individuals as either having or not having heart disease based on input data. The system demonstrated its functionality by correctly identifying a person with heart disease.
 
-Conclusion
-This project showcases the implementation of a Logistic Regression model for heart disease prediction, highlighting proficiency in data handling, model training, and evaluation using Python's scikit-learn library.
+Skills Gained: This project showcases the implementation of a Logistic Regression model for heart disease prediction, highlighting proficiency in data handling, model training, and evaluation using Python.
