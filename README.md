@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-This project focuses on predicting heart disease using a Logistic Regression model. The key steps involve importing essential libraries, data collection, processing, and splitting, as well as training and evaluating the model's performance.
+This project focuses on predicting heart disease using a Logistic Regression model. The key steps involve importing  data collection, data pre-processing, and splitting, as well as training and evaluating the model's performance. The model can be further used to predict whether a person has a heart disease or not based on key features such as age, sex, cholestrol levels etc.
 
 ![image](https://github.com/udaisharma99/Heart-Disease-Prediction/assets/138836370/94a173b4-f6ac-4f6c-ae77-918efb9444ab)
 
