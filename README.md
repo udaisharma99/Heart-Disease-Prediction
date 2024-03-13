@@ -1,12 +1,8 @@
 # Heart-Disease-Prediction
 
-Overview
 This project focuses on predicting heart disease using a Logistic Regression model. The key steps involve importing essential libraries, data collection, processing, and splitting, as well as training and evaluating the model's performance.
 
 ![image](https://github.com/udaisharma99/Heart-Disease-Prediction/assets/138836370/94a173b4-f6ac-4f6c-ae77-918efb9444ab)
-
-
-
 
 Libraries Used
 NumPy: Utilized for handling numerical data.
